@@ -1,4 +1,4 @@
-![alternative text](header.png "Curbit")
+![alternative text]('design/Curb iT Header.png' "Curbit")
 
 
 # Curbit
